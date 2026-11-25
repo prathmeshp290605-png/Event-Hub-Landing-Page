@@ -46,3 +46,47 @@ Event-Hub-Landing-Page/
 
 ```bash
 git clone https://github.com/prathmeshp290605-png/Event-Hub-Landing-Page.git
+```
+
+2. Open the project folder:
+
+```bash
+cd Event-Hub-Landing-Page
+```
+
+3. Open the folder in Visual Studio Code:
+
+```bash
+code .
+```
+
+4. Open `index.html` using the Live Server extension.
+
+5. View the website in your browser.
+
+## 🎨 Design Theme
+
+- Primary Colour: Dark Navy
+- Accent Colour: Golden
+- Background: Light Cream
+- Typography: Poppins
+
+## 📱 Responsive Design
+
+The landing page uses CSS Flexbox, CSS Grid and media queries to provide a user-friendly experience across desktop, tablet and mobile devices.
+
+## 🎯 Project Objective
+
+The objective of this project is to develop a visually appealing static landing page while practicing fundamental HTML5 and CSS3 concepts, including page structure, styling, navigation, layout design and responsive web development.
+
+## 👨‍💻 Author
+
+**Prathmesh Patil**
+
+- GitHub: [prathmeshp290605-png](https://github.com/prathmeshp290605-png)
+
+---
+
+⭐ If you like this project, feel free to explore the repository!
+
+**Made with ❤️ using HTML & CSS.**
